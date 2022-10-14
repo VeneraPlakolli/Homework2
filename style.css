@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+body {
+    background-color:rgb(18, 23, 31);
+}
+.main-div {
+    border-radius: 3px;
+    border-style: dashed;
+    background-color:rgb(169, 186, 218);
+    margin: 70px 220px 70px 220px; 
+    padding-bottom: 20px;
+}
+img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: -85px;
+}
+.container {
+    border-radius: 20px;
+    background-color:rgb(47, 56, 71);
+    margin: 50px 190px 50px 190px;
+    padding: 40px;
+}
+h2 {
+    color:blue;
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.p1 {
+    color: white;
+    font-size: 15px;
+    font-family: cursive;
+    margin-top: -5px;
+    margin-bottom: 35px;
+
+}
+.firstinput {
+    border-radius: 10px;
+    border: none;
+    width: 270px;
+    height: 40px;
+    text-align: left;
+    padding-left: 10px;
+}
+.secondinput {
+    border-radius: 10px;
+    border: none;
+    width: 110px;
+    height: 40px;
+    background-color: rgb(77, 147, 194);
+    color: white;
+    text-transform: uppercase;
+    margin-left: 7px;
+    padding: 12px 14px 12px 14px;
+}
+
+.p2 {
+    margin-top: 30px;
+    font-family: Gabriola;
+    font-size: 20px;
+    color: grey;
+}
